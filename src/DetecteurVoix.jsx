@@ -928,7 +928,7 @@ export default function App() {
                 <p style={{color:"#94a3b8",fontSize:".82rem",marginBottom:"1.1rem",lineHeight:1.5}}>
                   30 min de call gratuit. Diagnostic profil + stratégie de contenu. Sans engagement.
                 </p>
-                <a href="https://calendly.com/thomas-frn/audit-gratuit" target="_blank" rel="noopener noreferrer"
+                <a href="https://cal.com/thomas-fournier/30min" target="_blank" rel="noopener noreferrer"
                   style={{display:"inline-block",background:"#018EBB",color:"#fff",borderRadius:12,padding:"12px 28px",fontWeight:700,textDecoration:"none",fontSize:".95rem",fontFamily:"'Parkinsans',sans-serif"}}>
                   Réserver mon appel gratuit →
                 </a>
